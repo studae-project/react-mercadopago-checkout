@@ -1,6 +1,6 @@
 {
   "name": "react-mercadopago-checkout",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Integrate MercadoPago checkout in your React application",
   "author": "Studae Project",
   "license": "MIT",
